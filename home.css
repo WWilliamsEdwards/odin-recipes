@@ -1,3 +1,7 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
 #head {
     background-color: burlywood;
     text-align: center;
